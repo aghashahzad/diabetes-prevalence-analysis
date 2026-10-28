@@ -1,0 +1,9 @@
+country,code,year,prevalence,source_row_in_downloaded_file
+Bangladesh,BGD,2011,10.5,33
+Bangladesh,BGD,2024,13.2,34
+China,CHN,2011,8.8,85
+China,CHN,2024,11.9,86
+India,IND,2011,9.0,189
+India,IND,2024,10.5,190
+Pakistan,PAK,2011,7.9,316
+Pakistan,PAK,2024,31.4,317
